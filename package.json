@@ -1,6 +1,6 @@
 {
   "name": "db-cookie-store",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Store cookies in database",
   "main": "lib/store.js",
   "repository": {
